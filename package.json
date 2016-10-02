@@ -1,0 +1,35 @@
+{
+  "name": "restful-resource",
+  "version": "1.0.1",
+  "description": "Restful Resource Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loulin/restful-resource.git"
+  },
+  "keywords": [
+    "rest",
+    "restful",
+    "resource",
+    "angular-resource"
+  ],
+  "author": "Lou, Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loulin/restful-resource/issues"
+  },
+  "homepage": "https://github.com/loulin/restful-resource#readme",
+  "devDependencies": {
+    "eslint": "^3.6.1",
+    "eslint-config-airbnb-base": "^8.0.0",
+    "eslint-plugin-import": "^1.16.0"
+  },
+  "dependencies": {
+    "lodash": "^4.16.2",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}

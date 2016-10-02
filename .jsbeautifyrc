@@ -1,0 +1,8 @@
+{
+    "indent_size": 2,
+    "indent_char": " ",
+    "eol": "\n",
+    "space_after_anon_function": true,
+    "brace_style": "collapse-preserve-inline",
+    "end_with_newline": true
+}
